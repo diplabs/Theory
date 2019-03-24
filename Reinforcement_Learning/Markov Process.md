@@ -1,3 +1,6 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # Markov Process
 `마르코프 과정은 확률 과정이다`
 - 계통 : 수학 - 통계학 - 확률과정 - 마르코프 과정

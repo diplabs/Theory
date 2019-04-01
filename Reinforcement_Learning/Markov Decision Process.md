@@ -1,4 +1,4 @@
-# Markov Decision Process
+# Markov Decision Process (작성듕..)
 
 *의사결정 과정을 모델링하는 수학적인 틀*
 *이산 시간확률 제어 과정(discrete time stochastic control process)*

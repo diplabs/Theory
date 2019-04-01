@@ -1,2 +1,2 @@
-# Papers
-A broad list of scientific papers regarding Artificial intelligence
+# Theory
+A broad list of statistical and mathematical theory regarding Artificial intelligence

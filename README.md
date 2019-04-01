@@ -3,6 +3,8 @@ A broad list of statistical and mathematical theory regarding Artificial intelli
 
 Fields
 -----
+Descriptive statistics
+Inferential statistics
 
 Curriculum
 -----

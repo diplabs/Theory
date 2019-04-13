@@ -1,4 +1,58 @@
-# Markov Process (작성중..)
+# Markov Process (작성중..) (시간나면 한국어랑 영어버젼 둘다 작성할계획, 우선 영어로)
+
+
+Introduction
+-----
+
+
+Deterministic vs Stochastic
+-----
+
+Discrete-Time Markov Chains
+-----
+
+Special Discrete-Time Chains
+-----
+
+Continuous-Time Markov Chains
+-----
+
+Special Continuous-Time Chains
+-----
+
+
+Definitions
+-----
+**Stochastic process** : Stochastic process, also known as random process, is a mathematical model for a sequence of random variables in which the outcome at any stage depends on some probability (e.g Bernoulli process, Random walk, Wiener process, Markov process etc)
+
+**Markov chains** : Markov chains is a stochastic-model describing a sequence of possible events in which the probability of each event depends only on the current state and not on the past states.
+
+**Markov property** : A stochastic process has Markov property if future state depends only upon the present state. 
+
+**State** : A state is a tuple of variables which is assigned a value
+
+**Process** :
+
+**State space**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 `마르코프 과정은 확률 과정이다`
 - 계통 : 수학 - 통계학 - 확률과정 - 마르코프 과정
 
